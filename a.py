@@ -4,3 +4,5 @@ mydic["Batch"] = 2024
 print(mydic)
 mydic["Heller"] = "Kallas"
 print(mydic)
+
+#Thank you
